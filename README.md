@@ -8,3 +8,4 @@ nano - wat
 kraken test
 from the terminal lol
 git - checkout
+testing branches
