@@ -7,3 +7,4 @@ kuaaakk from the web
 
 kraken test
 from the terminal lol
+git - checkout
