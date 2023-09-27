@@ -1,0 +1,2 @@
+# gitSessionPublic
+Git Course - Public
